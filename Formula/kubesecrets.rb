@@ -1,7 +1,7 @@
 class Kubedecode < Formula
   desc "Decode all parts of a kubernetes secret, no more copypasting!"
   homepage "https://github.com/stephenwolfe1/kubesecrets"
-  url "https://github.com/stephenwolfe1/kubedecode-new/archive/v1.6.tar.gz"
+  url "https://github.com/stephenwolfe1/kubesecrets/archive/v1.6.tar.gz"
   sha256 "fbdb3ff0c4214013baa4123c993880cab5ed2c8eef3b0f215454b8c0ea63f0c0"
 
   depends_on "jq"
