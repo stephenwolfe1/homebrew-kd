@@ -1,2 +1,2 @@
 # homebrew-kd
-Homebrew install for [kubedecode](https://github.com/stephenwolfe1/kubedecode-new)
+Homebrew install for [kubesecrets](https://github.com/stephenwolfe1/kubesecrets)
