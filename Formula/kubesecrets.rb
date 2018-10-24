@@ -1,4 +1,4 @@
-class Kubedecode < Formula
+class Kubesecrets < Formula
   desc "Decode all parts of a kubernetes secret, no more copypasting!"
   homepage "https://github.com/stephenwolfe1/kubesecrets"
   url "https://github.com/stephenwolfe1/kubesecrets/archive/v1.6.tar.gz"
